@@ -92,6 +92,30 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-sqlite",
+      "title": "Python and SQLite Databases",
+      "description": "Learn how to store and query data using SQLite from Python.",
+      "path": "assignments/python-sqlite",
+      "dueDate": "2026-06-12",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "txt"
+        },
+        {
+          "name": "Tests",
+          "file": "tests/test_database.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
