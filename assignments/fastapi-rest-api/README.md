@@ -1,3 +1,4 @@
+
 # 📘 Assignment: Building REST APIs with FastAPI
 
 ## 🎯 Objective
@@ -79,9 +80,9 @@ POST /items/
 Content-Type: application/json
 
 {
-  "name": "Widget",
-  "description": "A useful widget",
-  "price": 9.99
+	"name": "Widget",
+	"description": "A useful widget",
+	"price": 9.99
 }
 ```
 
@@ -90,10 +91,10 @@ Content-Type: application/json
 ```http
 HTTP/1.1 201 Created
 {
-  "id": 1,
-  "name": "Widget",
-  "description": "A useful widget",
-  "price": 9.99
+	"id": 1,
+	"name": "Widget",
+	"description": "A useful widget",
+	"price": 9.99
 }
 ```
 
@@ -109,3 +110,4 @@ HTTP/1.1 201 Created
 
 - Provide the code in a folder named `assignments/fastapi-rest-api/` with a `README.md` and any starter files you include.
 - Ensure the README follows this template and clearly documents how to run and test the API.
+
