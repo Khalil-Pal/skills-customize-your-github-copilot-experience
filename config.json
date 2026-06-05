@@ -58,6 +58,40 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Learn to design and build a RESTful API using FastAPI.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-06-12",
+      "attachments": [
+        {
+          "name": "Main App",
+          "file": "main.py",
+          "type": "python"
+        },
+        {
+          "name": "Pydantic Models",
+          "file": "models.py",
+          "type": "python"
+        },
+        {
+          "name": "In-memory Store",
+          "file": "store.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "txt"
+        },
+        {
+          "name": "Tests",
+          "file": "tests/test_items.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
